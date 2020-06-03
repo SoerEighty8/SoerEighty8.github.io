@@ -413,6 +413,7 @@ button {
   font-size: 22px;
   font-weight: 400;
   text-transform: uppercase;
+  font-family: 'CyrillicOldBold', arial;
   color: #fff;
   text-decoration: none;
   letter-spacing: .2rem;
@@ -646,14 +647,14 @@ button {
 .main {
   padding-bottom: 92px;
   color: #fff;
-  font-family: 'CyrillicOldBold';
+  font-family: 'CyrillicOldBold', arial;
 }
 
 .advantages-title h1 {
   margin-top: -6px;
   margin-bottom: 30px;
   padding: 20px;
-  font-family: 'CyrillicOldBold';
+  font-family: 'CyrillicOldBold', arial;
   font-weight: normal;
   font-size: 40px;
   color: #ffffff;
