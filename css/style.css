@@ -1706,3 +1706,9 @@ button {
   }
 }
 
+@font-face {
+  font-family: 'CyrillicOld';
+  font-style: normal;
+  font-weight: 700;
+  src: url(../fonts/cyrillicold.woff);
+}
