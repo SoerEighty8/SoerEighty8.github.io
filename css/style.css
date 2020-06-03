@@ -93,7 +93,7 @@ button {
 }
 
 .form-small .show-politic:hover {
-  color: #23bac1;
+  color: #f38f0ca1;
 }
 
 .lego-img {
@@ -204,8 +204,8 @@ button {
 .slider-block__button {
   padding: 18px 55px;
   background-color: transparent;
-  color: #23bac1;
-  border: 1px solid #23bac1;
+  color: #f38f0ca1;
+  border: 1px solid #f38f0ca1;
   font-size: 13px;
   text-transform: uppercase;
   font-family: 'ProximaNova-Bold';
@@ -487,14 +487,14 @@ button {
   margin-top: 0;
   -webkit-transform: rotate(135deg);
   transform: rotate(135deg);
-  background-color: #23bac1;
+  background-color: #f38f0ca1;
 }
 
 .menu-link_active span::after {
   margin-top: 0;
   -webkit-transform: rotate(-135deg);
   transform: rotate(-135deg);
-  background-color: #23bac1;
+  background-color: #f38f0ca1;
 }
 
 .show-order {
@@ -859,7 +859,7 @@ button {
   margin-top: 21px;
   display: block;
   font-size: 15px;
-  color: #23bac1;
+  color: #f38f0ca1;
   text-decoration: underline;
 }
 
@@ -1329,17 +1329,17 @@ button {
   }
 
   .form-button:hover {
-    background-color: #23bac1;
+    background-color: #f38f0ca1;
     color: #fff;
   }
 
   .form-small .show-politic {
     cursor: default;
-    color: #23bac1;
+    color: #f38f0ca1;
   }
 
   .form-small .show-politic:hover {
-    color: #23bac1;
+    color: #f38f0ca1;
   }
 
   .popup {
@@ -1385,7 +1385,7 @@ button {
 
   .slider-block__button:hover {
     background-color: transparent;
-    color: #23bac1;
+    color: #f38f0ca1;
   }
 
   .slider-block__button:hover .slider-block__button_img {
@@ -1465,7 +1465,7 @@ button {
   }
 
   .manual-block__text_order:hover {
-    color: #23bac1;
+    color: #f38f0ca1;
   }
 
   .contacts {
