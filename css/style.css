@@ -413,7 +413,7 @@ button {
   font-size: 22px;
   font-weight: 400;
   text-transform: uppercase;
-  font-family: 'CyrillicOldBold', arial;
+  /* font-family: 'CyrillicOldBold', arial; */
   color: #fff;
   text-decoration: none;
   letter-spacing: .2rem;
