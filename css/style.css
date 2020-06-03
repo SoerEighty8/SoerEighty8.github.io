@@ -654,7 +654,7 @@ button {
   margin-top: -6px;
   margin-bottom: 30px;
   padding: 20px;
-  font-family: 'CyrillicOld';
+  font-family: 'CyrillicOldBold';
   font-weight: normal;
   font-size: 40px;
   color: #ffffff;
@@ -959,7 +959,7 @@ button {
 
 .feedback {
   padding: 64px 0;
-  font-family: 'CyrillicOld', arial;
+  font-family: 'CyrillicOldBold', arial;
 }
 
 .feedback-text {
