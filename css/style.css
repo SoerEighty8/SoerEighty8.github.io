@@ -26,7 +26,7 @@ button {
 
 .form {
   text-align: center;
-  background: rgba(255, 255, 255, 0.829);
+  background: #474943c4;
   border-radius: 20px;
 }
 
@@ -38,7 +38,7 @@ button {
   font-family: 'Oranienbaum', serif;
   margin-bottom: 28px;
   font-size: 20px;
-  color: #000;
+  color: rgb(255, 248, 248);
 }
 
 .form-input {
@@ -46,12 +46,12 @@ button {
   padding: 16px 0;
   width: 100%;
   text-align: center;
-  font-size: 13px;
+  font-size: 16px;
   font-family: 'Neucha';
-  color: #7c7c7c8c;
+  color: #7c7c7cc4;
   border: 1px solid #e8e8e8;
   border-radius: 20px;
-  background-color: rgba(255, 255, 255, 0.589);
+  background-color: rgba(255, 255, 255, 0.815);
   -webkit-box-shadow: none;
   box-shadow: none;
 }
@@ -67,7 +67,7 @@ button {
   -webkit-box-shadow: 0 6px 18px#f38f0ca1;
   box-shadow: 0 6px 18px #f38f0ca1;
   background-color: #f38f0ca1;
-  color: rgb(0, 0, 0);
+  color: rgb(255, 255, 255);
   text-transform: uppercase;
   font-family: 'Oranienbaum', serif;
   font-size: 17px;
@@ -1644,6 +1644,11 @@ button {
   .slider-right {
     -webkit-transform: translateX(-1px);
     transform: translateX(-1px);
+  }
+
+  .form{
+    background: rgba(255, 255, 255, 0.829);
+
   }
 
   .form-main_order {
